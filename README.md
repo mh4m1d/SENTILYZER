@@ -46,7 +46,7 @@ If you have any questions or comments about SENTILYZER, please contact me at iam
 
 # Credits:
 
-these chads from Air University:
+### this project would not have been possible without these three individuals from AUI
 - Anas Ishaq
 - Muhammad Rafay
 - Hassan Saeed
