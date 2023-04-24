@@ -3,6 +3,8 @@
 
 an application which we made for our first semester PF project, it inspects one's sentiments using text.
 
+for a preview, check out: https://drive.google.com/file/d/12I3m-7ENzfaDZEIGM3KcksjtiU-9rHaL/view
+
 SENTILYZER is a C++ application that analyzes your sentiments using basic strings. Currently, it is limited to CLI (terminal/console) but in the near future, it will become a valuable tool for gaining insights into customer opinions and preferences, as well as for business strategies and social media posts.
 
 # Installation:
